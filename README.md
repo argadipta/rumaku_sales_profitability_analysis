@@ -113,7 +113,6 @@ Based on the analysis, the following actions are recommended:
 ---
 
 ## 📈 Dashboard
-
 The project includes a Power BI dashboard designed to monitor:
 
 * Revenue & Net Profit trends by quarter
@@ -121,14 +120,16 @@ The project includes a Power BI dashboard designed to monitor:
 * Net Profit by Category
 * Online channel Profit Margin trend
 
-Dashboard screenshots and supporting visualizations will be added to this repository.
-
 ---
 
 ## 📓 Notebook
 
 The complete Python analysis can be found in:
 **`https://colab.research.google.com/drive/1nbSnGXmPEzfBu56wQ01hmhAEuKCW7j9h`**
+
+The complete Python analysis is available here: [rumaku-sales-profitability-analysis.ipynb](RUMAKU_BUSINESS_ANALYSIS.ipynb)
+
+You can also [open it directly in Google Colab](https://colab.research.google.com/drive/1nbSnGXmPEzfBu56wQ01hmhAEuKCW7j9h).
 
 The notebook contains the full workflow: data loading, data quality audit & cleaning, exploratory analysis, KPI calculations, visualizations, and business findings.
 
